@@ -73,11 +73,11 @@ Flow connectivity is a DEM-based proxy rather than a full flow-accumulation mode
 
 ## Citation
 
-Huang, L.-J. and Wilkinson, E. (2026). *A GIS-Based Spatial Correlation Analysis of Industrial Areas and Drainage Networks in the Tandi Ditch, Dahan River Watershed.* Experiment findings, course project report, unpublished.
+Wilkinson, E. (2026). *A GIS-Based Spatial Correlation Analysis of Industrial Areas and Drainage Networks in the Tandi Ditch, Dahan River Watershed.* Experiment findings, course project report, unpublished.
 
-## Authors
+## Author
 
-Huang Ling-Jin (黃鈴斤) · Emily Wilkinson
+Emily Wilkinson (Huang Ling-Jin / 黃鈴斤)
 
 Contact: [Wilkinsonemily](https://github.com/Wilkinsonemily)
 
