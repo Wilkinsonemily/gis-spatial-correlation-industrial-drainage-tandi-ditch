@@ -1,0 +1,19 @@
+# QGIS backups and caches
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Raw MoENV exports (too large for git / user downloads these directly)
+01_raw_data/River water quality monitoring data(1).csv
+01_raw_data/River water quality monitoring data(2).csv
