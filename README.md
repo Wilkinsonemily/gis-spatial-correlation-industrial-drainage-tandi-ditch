@@ -4,7 +4,7 @@ Case study: industrial areas of Xinzhuang District, New Taipei City, Taiwan.
 
 This repository contains the QGIS file, scripts, figures and manuscript for a multi-criteria **Pollution Susceptibility Index (PSI)** that ranks 65 industrial areas by how likely they are to contaminate the Dahan River through the urban drainage network.
 
-> **Status:** Experiment findings — final report of a university course project, not peer reviewed or submitted to a journal.
+> **Status:** unpublished preprint manuscript, not peer reviewed.
 
 ## Summary
 
@@ -73,11 +73,11 @@ Flow connectivity is a DEM-based proxy rather than a full flow-accumulation mode
 
 ## Citation
 
-Wilkinson, E. (2026). *A GIS-Based Spatial Correlation Analysis of Industrial Areas and Drainage Networks in the Tandi Ditch, Dahan River Watershed.* Experiment findings, course project report, unpublished.
+Huang, L.-J. (Emily Wilkinson) (2026). *A GIS-Based Spatial Correlation Analysis of Industrial Areas and Drainage Networks in the Tandi Ditch, Dahan River Watershed.* Unpublished preprint manuscript.
 
-## Author
+## Authors
 
-Emily Wilkinson (Huang Ling-Jin / 黃鈴斤)
+Huang Ling-Jin (黃鈴斤) / Emily Wilkinson
 
 Contact: [Wilkinsonemily](https://github.com/Wilkinsonemily)
 
