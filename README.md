@@ -79,8 +79,6 @@ Huang, L.-J. (Emily Wilkinson) (2026). *A GIS-Based Spatial Correlation Analysis
 
 Huang Ling-Jin (黃鈴斤) / Emily Wilkinson
 
-Contact: [Wilkinsonemily](https://github.com/Wilkinsonemily)
-
 ## License
 
 All rights reserved. No license is granted for reuse of the code, data, figures or manuscript in this repository. Third-party data (OpenStreetMap, MoENV, NLSC) remains subject to its own original terms, noted above.
